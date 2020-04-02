@@ -4,3 +4,4 @@
 <br>
 <h4> Restarting economy while avoiding big brother: </h4>http://connection.mit.edu/sites/default/files/publication-pdfs/Restarting%20the%20Economy_0.pdf
 
+<h4> Covid-19 Scenarios by state / county :</h4> https://covidactnow.org/
